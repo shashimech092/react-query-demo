@@ -1,0 +1,20 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "class": 12
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "class": 13
+      
+    },
+    {
+      "id": 3,
+      "name": "Wonder women",
+      "class": 14
+    }
+  ]
+}
